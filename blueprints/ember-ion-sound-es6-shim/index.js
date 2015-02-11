@@ -8,6 +8,6 @@ module.exports = {
   },
 
   afterInstall: function() {
-    return this.addBowerPackageToProject('ember-ion-sound-es6-shim');
+    return this.addBowerPackageToProject('ion-sound-es6-shim');
   }
 };
