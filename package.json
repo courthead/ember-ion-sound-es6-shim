@@ -1,6 +1,6 @@
 {
   "name": "ember-ion-sound-es6-shim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Imports the Ion.Sound ES6 shim for your Ember CLI project",
   "directories": {
     "doc": "doc",
